@@ -1,4 +1,3 @@
-# Learn
-This repository is to storage the self-learn note
-ddas
-626
+# Start Python
+The basic grammer of python version 3, which are going to be the base of Machine Learning.
+
