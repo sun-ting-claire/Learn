@@ -1,10 +1,9 @@
 Python3
 ==========
-* 01 Basic Knowledge
-----------
+## * 01 Basic Knowledge
     * variable,list,tuple,dictionary  
     * if, for, def, class
-* 02 NumPy
+## * 02 NumPy
 ----------  
   * 03 Pandas
   * 04 Linear Regression
