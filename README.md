@@ -1,6 +1,6 @@
 Python3
 ==========
-* 01 Basic Knowledge
+* [01 Basic Knowledge](https://github.com/sun-ting-claire/Python-Learning-with-Examples/.ipynb/01_Python.ipynb)
     * variable,list,tuple,dictionary  
     * if, for, def, class
 * 02 NumPy 
@@ -24,6 +24,7 @@ Python3
    * Basic Knowledge of ***Tensor***
    * CUDA
 * 08 ***Multilayer Perception***
-   * MPL Model
+   * MLP Model
    * Activation Function
    * Overfitting
+
