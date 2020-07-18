@@ -1,6 +1,6 @@
 Python3
 ==========
-* [01 Basic Knowledge](https://github.com/sun-ting-claire/Python-Learning-with-Examples/.ipynb/01_Python.ipynb)
+* [01 Basic Knowledge](https://github.com/sun-ting-claire/Python-Learning-with-Examples/blob/master/.ipynb/01_Python.ipynb)
     * variable,list,tuple,dictionary  
     * if, for, def, class
 * 02 NumPy 
