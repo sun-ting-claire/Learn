@@ -8,7 +8,7 @@ Python3
 * 04 Linear Regression
     * Conception of Linear Model
     * MSE
-    * Scikit-Learn--"LinearRegression"
+    * Scikit-Learn--'LinearRegression'
     * Scikit-Learn--"SGDRegression"
     * ridge regression(正则化)
 * 05 Logistic Regression
